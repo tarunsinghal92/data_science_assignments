@@ -1,2 +1,5 @@
-# data_science_assignments
-Data Science Assignments
+# Data Science Assignments
+
+### Tweets Sentiment Analysis for political campaign
+### Income Analysis and Clustering
+### BikeShare Default Analysis
